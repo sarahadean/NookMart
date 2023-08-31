@@ -1,8 +1,8 @@
 # NookMart
 
 <div>
-🚨 Attention! 🚨
-🚧 Project In Progress 🚧
+<h3> 🚨 Attention! 🚨 </h3>
+  <p>🚧 Project In Progress 🚧</p>
 </div>
 
 Welcome to NookMart! 
