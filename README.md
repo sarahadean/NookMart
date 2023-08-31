@@ -1,7 +1,9 @@
 # NookMart
 
-## 🚨 Attention! 🚨
+<div>
+🚨 Attention! 🚨
 🚧 Project In Progress 🚧
+</div>
 
 Welcome to NookMart! 
 E-Commerce site where users can view and purchase a cornucopia of goods!
